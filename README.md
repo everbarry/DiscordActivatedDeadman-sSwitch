@@ -1,7 +1,7 @@
-# DiscordActivatedDeadman-sSwitch
-deadman's switch that encrypts files with password if you dont type a command in discord for some time
+# Discord Activated Deadman's Switch
 
-functional discord bot that when run starts a timer and if you dont message the password in a discord server it encrypts a file/folder with a password with pyAesCrypt
+deadman's switch that encrypts files with password if you dont type a command in discord for some time
+functional discord bot that when run starts a timer and if you dont message the password before time runs out, in a discord server, it encrypts a file/folder with a password with pyAesCrypt
 
 Bot commands:
  
